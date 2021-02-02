@@ -7,13 +7,13 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="#">Accueil</a>
+        <a class="nav-link" href="index.php">Accueil</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Galerie</a>
+        <a class="nav-link" href="galerie.php">Galerie</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">A propos</a>
+        <a class="nav-link" href="propos.php">A propos</a>
       </li>
     </ul>
   </div>
