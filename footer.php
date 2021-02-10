@@ -38,7 +38,7 @@
 	        	<div class="container">
 	        		<div class="row">
 	           			<div class="col-md-12 footer-copyright">
-	                    	
+	                    			IUT de Rouen | Site d'Elbeuf - Département du DUT Métiers du Multimédia et de l'Internet - <a href="https://www.univ-rouen.fr">Université de Rouen</a>
 	                </div>
 	           		</div>
 	        	</div>
