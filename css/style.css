@@ -1,3 +1,42 @@
+
+
+.navbar {
+	background-color:lightblue;
+}
+
+.nav-item a{
+	color: white;
+}
+
+.nav-item a:hover{
+	color:white;
+	text-shadow: 0px 0px 5px lightblue, 0 0 25px #34C924;
+}
+
+.navbar-toggler-icon{
+	color:white;
+}
+
+/*supression marges par défaut*/
+body,html
+{
+	margin:0;
+	padding:0;
+}
+
+/*images de la grille style simple*/
+#containerGallerie img
+{
+	border-radius:3px;
+	border:6px solid white;
+}
+
+/*container des images*/
+#containerGallerie 
+{
+	background-color:#ededed;
+}
+
 /***** Footer *****/
 a { 
 color: #79a05f; 
