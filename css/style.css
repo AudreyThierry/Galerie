@@ -1,0 +1,19 @@
+/*supression marges par défaut*/
+body,html
+{
+	margin:0;
+	padding:0;
+}
+
+/*images de la grille style simple*/
+#containerGallerie img
+{
+	border-radius:3px;
+	border:6px solid white;
+}
+
+/*container des images*/
+#containerGallerie 
+{
+	background-color:#ededed;
+}
