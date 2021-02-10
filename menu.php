@@ -12,7 +12,7 @@
         <a class="nav-link" href="index.php">Accueil</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#galerie">Galerie</a>
+        <a class="nav-link" href="#containerGallerie">Galerie</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#footer">A propos</a>
