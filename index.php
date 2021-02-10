@@ -1,3 +1,6 @@
+
+
+
 <!doctype html>
 <html lang="fr">
 <head>
@@ -13,5 +16,9 @@
 	<div>
 	testt
 	</div>
+  <?php
+  include ("footer.php");
+   ?>
 </body>
 </html>
+
