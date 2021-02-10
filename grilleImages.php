@@ -140,4 +140,3 @@
 	</div>
 </div>
 
-<script src="js/overlay.js"></script>
