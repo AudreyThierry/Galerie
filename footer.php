@@ -19,12 +19,15 @@
 	              <div class="col-md-4 footer-links wow fadeInUp" style="margin-top:70px;">
 	                 <div class="row">
 	                    <div class="col">
-                      
+                      		<h3>Plan du site</h3>
 	                    </div>
 	                 </div>
 	                 <div class="row">
 	                    <div class="col-md-5">
-	                    			
+	                    	<p><a class="scroll-link" href="#top-content">Accueil</a></p>
+	                    	<p><a href="#">Actualités</a></p>
+	                    	<p><a href="#">Créations</a></p>
+	                    	<p><a href="#">Nos Etudiants</a></p>		
 	                    </div>
 	                  </div>
 	               </div>
