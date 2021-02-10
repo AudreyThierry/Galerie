@@ -17,3 +17,31 @@ body,html
 {
 	background-color:#ededed;
 }
+
+#overlay, #overlay2, #overlay3, #overlay4, #overlay5, #overlay6, #overlay7, #overlay8, #overlay9, #overlay10, #overlay11, #overlay12 
+{
+  position: fixed;
+  display: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 2;
+  cursor: pointer;
+  text-align: center;
+  color: white;
+}
+
+#overlay img, #overlay2 img, #overlay3 img, #overlay4 img, #overlay5 img, #overlay6 img, #overlay7 img, #overlay8 img, #overlay9 img, #overlay10 img, #overlay11 img, #overlay12 img 
+{
+	margin-top:10%;
+}
+
+#overlay p, #overlay2 p, #overlay3 p, #overlay4 p, #overlay5 p, #overlay6 p, #overlay7 p, #overlay8 p, #overlay9 p, #overlay10 p, #overlay11 p, #overlay12 p
+{
+	width: 80%;
+	margin-left: 10%;
+}
