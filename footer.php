@@ -4,7 +4,11 @@
 		        <div class="container">
 		        	<div class="row">
 		        		<div class="col-md-2 footer-about wow fadeInUp">
-		        			
+		        			<img class="logo-footer" src="img/logo.png" alt="logo-footer" data-at2x="img/logo.png">
+		        			<p>
+		        				Ce site est un projet éducatif, qui pour but d'appréhender les outils de versionning, que sont Git et GitHub.
+		        			</p>
+		        			<p><a href="https://www.github.com">GitHub</a></p>	
 	              </div>
 		        		<div class="col-md-5 offset-md-1 footer-contact wow fadeInDown" style="margin-top:70px;">
 		        			
