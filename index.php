@@ -1,3 +1,6 @@
+
+
+
 <!doctype html>
 <html lang="fr">
 <head>
@@ -13,5 +16,10 @@
 	<div>
 	testt
 	</div>
+  <?php
+  include("menu.php");
+  include("footer.php");
+   ?>
 </body>
 </html>
+
