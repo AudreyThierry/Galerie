@@ -18,6 +18,7 @@
 	</div>
   <?php
   include("menu.php");
+  include("grilleImages.php");
   include("footer.php");
    ?>
 </body>
