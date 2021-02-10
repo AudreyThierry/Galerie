@@ -5,3 +5,6 @@ Pour tester le projet, veuillez utiliser un serveur local ou distant pouvant lir
 
 Auteurs:
 Audrey Thierry, Charles Jordan, Damien Varnier, Théo Soroka, Angel Viollier
+
+Fonctionnalités : 
+Fenêtre Modale au clic sur une image avec description
