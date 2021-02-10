@@ -10,4 +10,5 @@ Audrey Thierry, Charles Jordan, Damien Varnier, Théo Soroka, Angel Viollier
 # Fonctionnalités : 
 Fenêtre Modale au clic sur une image avec description
 
-# License
+# Licence
+Creative Common 1.0
