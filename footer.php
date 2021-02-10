@@ -11,7 +11,10 @@
 		        			<p><a href="https://www.github.com">GitHub</a></p>	
 	              </div>
 		        		<div class="col-md-5 offset-md-1 footer-contact wow fadeInDown" style="margin-top:70px;">
-		        			
+		        			<h3>Contact</h3>
+		                		<p><i class="fas fa-map-marker-alt"></i>24 Cours Gambetta, 76500 Elbeuf</p>
+		                		<p><i class="fas fa-phone"></i>Tel. : 02 32 96 10 20</p>
+		                		<p><i class="fas fa-envelope"></i> Email: <a href="mailto:secretariat-mmi-iutrouen@univ-rouen.fr">secretariat-mmi-iutrouen@univ-rouen.fr</a></p>
 	              </div>
 	              <div class="col-md-4 footer-links wow fadeInUp" style="margin-top:70px;">
 	                 <div class="row">
