@@ -3,8 +3,10 @@ Ce projet éducatif à pour objectif de prendre en main l'outil Git et GitHub. N
 
 Pour tester le projet, veuillez utiliser un serveur local ou distant pouvant lire du php.
 
-Auteurs:
+# Auteurs:
 Audrey Thierry, Charles Jordan, Damien Varnier, Théo Soroka, Angel Viollier
 
-Fonctionnalités : 
+# Fonctionnalités : 
 Fenêtre Modale au clic sur une image avec description
+
+# License
